@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 first chan
 jira integrati
@@ -33,9 +34,14 @@ jbhbj
 MAR-16ony
 >>>>>>> ony
 =======
+=======
+>>>>>>> master
 first chan
 jira integration
 again
 again new
 jbhbj
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
