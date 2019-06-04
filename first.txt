@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 first chan
 jira integrati
@@ -36,12 +37,17 @@ MAR-16ony
 =======
 =======
 >>>>>>> master
+=======
+>>>>>>> 6386efa615b8506f26e4541c19706299299ad659
 first chan
 jira integration
 again
 again new
 jbhbj
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
 >>>>>>> master
+=======
+>>>>>>> 6386efa615b8506f26e4541c19706299299ad659
